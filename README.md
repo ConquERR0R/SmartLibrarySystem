@@ -18,3 +18,23 @@
       Go to browser's search bar and type localhost\SmartLibrarySystem/Source/librarian/login.php
 # STEP 9:
     
+
+    # Smart Library System
+
+A web-based library management system built using PHP, MySQL, HTML, CSS, and JavaScript.
+
+## 🔐 Default Accounts
+
+| Role | Username | Password |
+|------|-----------|-----------|
+| Admin | admin | admin |
+| Librarian | victordavid | admin |
+| Staff | staff | staff123 |
+
+## 👥 Sample User Accounts
+
+| User Type | Username |
+|-----------|-----------|
+| Student | davictor |
+| Teacher | chyra12 |
+| Teacher | victor12 |
